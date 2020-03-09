@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  screenRead.cpp
+C:\Users\trevo\source\repos\screenRead\screenRead.cpp(38,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+  screenRead.vcxproj -> C:\Users\trevo\source\repos\screenRead\Release\screenRead.lib
